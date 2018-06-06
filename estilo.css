@@ -69,7 +69,7 @@ body .dir {
     border-left-color: black;
 }
 
-#col-one {
+#cuadro1 {
     margin: 0 10px;
     float: left;
     width: 235px;
@@ -77,19 +77,19 @@ body .dir {
     background: gray no-repeat;
 }
 
-#col-one .caja .titulo {
+#cuadro1 .caja .titulo {
     color: #FFFFFF;
     text-align: center;
 }
 
-#col-one .caja .sub {
+#cuadro1 .caja .sub {
     border-bottom-style: solid;
     border-bottom-width: 1px;
     border-bottom-color: #000000;
     line-height: 10pt;
 }
 
-#col-two {
+#cuadro2 {
     margin: 0 10px;
     float: right;
     width: 235px;
@@ -98,12 +98,12 @@ body .dir {
     background: gray no-repeat;
 }
 
-#col-two .caja .titulo {
+#cuadro2 .caja .titulo {
     color: #FFFFFF;
     text-align: center;
 }
 
-#col-two .caja .sub {
+#cuadro2 .caja .sub {
     font: 100% sans-serif;
     font-weight: bold;
     border-bottom-style: solid;
@@ -112,7 +112,7 @@ body .dir {
     line-height: 10pt;
 }
 
-#col-three {
+#cuadro3 {
     float: left;
     width: 235px;
     margin: 0px 10px;
@@ -120,19 +120,19 @@ body .dir {
     background: gray no-repeat;
 }
 
-#col-three .caja .titulo {
+#cuadro3 .caja .titulo {
     color: #FFFFFF;
     text-align: center;
 }
 
-#col-three .caja .sub {
+#cuadro3 .caja .sub {
     border-bottom-style: solid;
     border-bottom-width: 1px;
     border-bottom-color: #000000;
     line-height: 10pt;
 }
 
-#col-four {
+#cuadro4 {
     float: right;
     width: 235px;
     margin: 0px 10px;
@@ -141,12 +141,12 @@ body .dir {
     background: gray no-repeat;
 }
 
-#col-four .caja .titulo {
+#cuadro4 .caja .titulo {
     color: #FFFFFF;
     text-align: center;
 }
 
-#col-four .caja .sub {
+#cuadro4 .caja .sub {
     font: 100% sans-serif;
     font-weight: bold;
     border-bottom-style: solid;
