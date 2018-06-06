@@ -74,7 +74,7 @@ body .dir {
     float: left;
     width: 235px;
     padding-top: 0px;
-    background: #BDBDBD no-repeat;
+    background: gray no-repeat;
 }
 
 #col-one .caja .titulo {
@@ -95,7 +95,7 @@ body .dir {
     width: 235px;
     margin-left: 0px;
     padding-top: 0px;
-    background: #BDBDBD no-repeat;
+    background: gray no-repeat;
 }
 
 #col-two .caja .titulo {
@@ -117,7 +117,7 @@ body .dir {
     width: 235px;
     margin: 0px 10px;
     padding-top: 0px;
-    background: #BDBDBD no-repeat;
+    background: gray no-repeat;
 }
 
 #col-three .caja .titulo {
@@ -138,7 +138,7 @@ body .dir {
     margin: 0px 10px;
     margin-left: 0px;
     padding-top: 0px;
-    background: #BDBDBD no-repeat;
+    background: gray no-repeat;
 }
 
 #col-four .caja .titulo {
